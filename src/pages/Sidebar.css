@@ -1,0 +1,89 @@
+
+  
+  /* Sidebar */
+  .sidebar {
+    width: 300px;
+    background: #1e293b;
+    color: white;
+    padding: 20px;
+    transition: width 0.3s ease-in-out;
+    height: 100vh;
+  }
+  
+  .sidebar.closed {
+    width: 60px;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin: 30px 0;
+    color: black;
+  }
+  .side-txt{
+    color: black;
+    font-size: 17px;
+  }
+  
+  .sidebar a {
+    /* color: white; */
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .toggle-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  /* Main Content */
+  .main-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Header */
+  .header {
+    background: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .user-profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .logout-btn {
+    background: #ff4b5c;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .logout-btn:hover {
+    background: #d43f50;
+  }
+  
+  /* Content */
+  .content {
+    padding: 20px;
+  }
+  

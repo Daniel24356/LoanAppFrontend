@@ -1,0 +1,7 @@
+.dashboard-div{
+    display: flex;
+    overflow: hidden;
+}
+.dashboard-inner{
+    width: 1000px;
+}
