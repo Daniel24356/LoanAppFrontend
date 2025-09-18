@@ -10,9 +10,9 @@
     height: 100vh;
   }
   
-  /* .sidebar.closed {
+  .sidebar.closed {
     width: 60px;
-  } */
+  }
   
   .sidebar ul {
     list-style: none;
