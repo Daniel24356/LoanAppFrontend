@@ -8,12 +8,12 @@
     margin-top: 20px;
   }
   
-  /* .dashboard-cards {
+  .dashboard-cards {
     display: flex;
     gap: 20px;
     margin-bottom: 20px;
     margin-top: 30px;
-  } */
+  }
   
   .card {
     flex: 1;
