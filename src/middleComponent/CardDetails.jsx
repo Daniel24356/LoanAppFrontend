@@ -1,21 +1,21 @@
 
 
-const CardDetails = () => {
-    return(
-        <>
-        <div>
-            <div>
-                <p>My Cards</p>
-                <div>
-                    {/* icons */}
-                     New Card   
-                </div>
-            </div>
+// const CardDetails = () => {
+//     return(
+//         <>
+//         <div>
+//             <div>
+//                 <p>My Cards</p>
+//                 <div>
+//                     {/* icons */}
+//                      New Card   
+//                 </div>
+//             </div>
 
              
-        </div>
-        </>
-    )
-}
+//         </div>
+//         </>
+//     )
+// }
 
-export default CardDetails
+// export default CardDetails
