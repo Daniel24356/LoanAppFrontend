@@ -90,12 +90,12 @@
     cursor: pointer;
   }
 
-  /* .p {
+  .p {
     text-align: center;
     color: black;
     font-size: 14px;
     margin: 5px 0;
-  } */
+  }
 
   .btn {
     margin-top: 10px;
