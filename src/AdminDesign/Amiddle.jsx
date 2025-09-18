@@ -1,11 +1,11 @@
 
 
-// const Amiddle = () => {
-//     return(
-//         <>
+const Amiddle = () => {
+    return(
+        <>
           
-//         </>
-//     )
-// }
+        </>
+    )
+}
 
-// export default Amiddle
+export default Amiddle
